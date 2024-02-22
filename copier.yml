@@ -1,0 +1,9 @@
+_subdirectory: project
+_templates_suffix: .jinja
+_questions:
+  project_name:
+    type: str
+    help: Your project name
+  project_description:
+    type: str
+    help: Your project description
